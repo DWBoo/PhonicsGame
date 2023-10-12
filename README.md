@@ -15,5 +15,5 @@
 ![image](https://github.com/DWBoo/PhonicsGame/assets/147593910/ee0910b3-797d-4656-9cfd-97e381cb0d0f)</br>
 JSON으로 미리 주제와 게임 별로 문제가 정의되어 있다.
 Addressable에도 콘텐츠가 문제 혹은 정답과 동일한 이름으로 관리를 하고 있기에 현재 해당하는 문제를 그대로 이름으로 사용하여 다운로드 받은 콘텐츠에서 해당 콘텐츠를 불러와 사용
-![image](https://github.com/DWBoo/PhonicsGame/assets/147593910/73720aaa-af34-4f9a-a08f-18c8b8dd2d6d)
+![image](https://github.com/DWBoo/PhonicsGame/assets/147593910/73720aaa-af34-4f9a-a08f-18c8b8dd2d6d)</br>
 버튼 또한 문제들의 이름으로 되어있기에 JSON의 데이터를 기반으로 현재 문제 및 정답 리소스를 사용하며 그 데이터를 기반으로 같은지를 비교하여 정답을 판단
